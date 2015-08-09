@@ -1,0 +1,17 @@
+{
+  "name": "A",
+  "version": "0.0.0",
+  "dependencies": {
+    //"ionic": "v1.0.0-rc.3",
+    "ionic": "driftyco/ionic-bower#1.0.1", 
+    "ngCordova": "v0.1.14-alpha",
+    "angular-resource": "~1.4.3"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.3.6",
+    "angular-scenario": "~1.3.6"
+  },
+  "resolutions": {
+    "angular": ">= 1.3.6"
+  }
+}
