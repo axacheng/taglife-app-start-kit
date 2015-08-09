@@ -68,12 +68,13 @@ shell> ionic run android
 
 
 ### 以上實作用的套件版本與設定 ###
+```
 套件版本：
  ionic-cli 1.6.4 
  ionic 版本 driftyco/ionic-bower#1.0.1
  angularjs 版本 1.3.13
-ANDROID_HOME=/usr/local/opt/android-sdk   <= 指向 /usr/local/Cellar/android-sdk/24.0.2/
+ ANDROID_HOME=/usr/local/opt/android-sdk   <= 指向 /usr/local/Cellar/android-sdk/24.0.2/
 
 設定：
-Gruntfile.js 是用icamping/mobile 裡面的
-
+ Gruntfile.js 是用icamping/mobile 裡面的
+```
